@@ -1,0 +1,7 @@
+db.json.insertMany(
+   [
+     { name: "bob", age: 42, status: "A", },
+     { name: "ahn", age: 22, status: "A", },
+     { name: "xi", age: 34, status: "D", }
+   ]
+)
